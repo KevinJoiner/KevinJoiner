@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<div align="center">
+  <img src="https://img.icons8.com/color/128/information.png" />
+  <img src="https://img.icons8.com/color/128/hearts.png" />
+  <img src="https://img.icons8.com/color/128/golang.png" />
+</div>
 <!--
 **KevinJoiner/KevinJoiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
